@@ -2,7 +2,7 @@
 
 ### Unlocking the future of DeFi with next-gen liquidity unlocking tools
 
-Asylum Labs is on a mission to build an ecosystem of DeFi tools that support investors in their transition to onchain finance with a suite of primitives that help unlock liquidity and manage risk for any token on every blockchain.
+Asylum Labs is on a mission to build a DeFi ecosystem that supports investors and organizations who manage their finance onchain with a suite of tools that help unlock liquidity and manage risk for any token on every network.
 
 ## Ecosystem
 
