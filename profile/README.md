@@ -24,6 +24,8 @@ Asylum Labs is comprised of a number of platforms:
 
 ### 🛠 &nbsp;Networks
 
+Asylum Labs mainnet will launch on the following networks:
+
 <p align="center">
 <table style="border: none; margin: 0 auto;">
 <tr>
