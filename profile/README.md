@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo-full.png" width="600" alt="Asylum Labs"></p>
+<p align="center"><img src="../assets/logo-banner.png" width="600" alt="Asylum Labs"></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=asylum-labs&style=flat-square&color=blue" alt=""> &nbsp; &nbsp; <img src="https://img.shields.io/github/stars/asylum-labs" alt=""></p>
 
