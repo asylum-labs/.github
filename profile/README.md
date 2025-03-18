@@ -66,6 +66,6 @@ Asylum Labs publishes articles on Paragraph, a decentralized publishing platform
 Asylum Labs is currently pre-token launch, and currently funded by donations. When we do launch our ecosystem token, a percentage of supply will be reserved for donors.
 
 <p align="left">
-<a href="assets/crypto/ethereum-address.svg"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
-<a href="assets/crypto/solana-address.svg"><img src="https://img.shields.io/badge/SOL-CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR-9945FF.svg?logo=solana" alt="SOL address"></a>
+<a href="../assets/crypto/ethereum-address.svg"><img src="https://img.shields.io/badge/ETH-0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1-3C3C3D.svg?logo=ethereum" alt="ETH address"></a><br>
+<a href="../assets/crypto/solana-address.svg"><img src="https://img.shields.io/badge/SOL-CTxPz8M78gbcGTVW4toMACjahvoPYfnSGURhmfj1A1HR-9945FF.svg?logo=solana" alt="SOL address"></a>
 </p>
