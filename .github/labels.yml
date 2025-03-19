@@ -1,0 +1,135 @@
+- name: duplicate
+  description: This issue or PR already exists. Link existing issue/PR and close.
+  color: cfd3d7
+
+- name: first timers
+  description: Open for anyone contributing for the first time. You do not need permission to work on these.
+  color: 7057ff
+
+- name: help wanted
+  description: Open for all. You do not need permission to work on these.
+  color: 0E8A16
+
+- name: scope: documentation
+  description: Improvements or additions to documentation
+  color: 0075ca
+
+- name: spam
+  description: PR is low-effort/spammy and flagged for review
+  color: e4e669
+
+- name: status: waiting context
+  description: Further information is requested
+  color: d876e3
+
+- name: type: enhancement
+  description: Updating an existing feature
+  color: a2eeef
+
+- name: DRAFT
+  description: For draft PRs that are awaiting additional commits before merging
+  color: B60205
+
+- name: scope: contracts
+  description: To be applied to issues or PRs that involve smart contracts
+  color: 1D76DB
+
+- name: scope: UI
+  description: Threads for addressing UX changes and improving user interface
+  color: 1D76DB
+
+- name: scope: scripts
+  description: To be applied to issues or PRs that involve script files
+  color: 1D76DB
+
+- name: scope: tests
+  description: To be applied to issues or PRs that involve test files
+  color: 1D76DB
+
+- name: status: roadmap
+  description: Long term plans and features
+  color: 006B75
+
+- name: status: WIP
+  description: Applied to issues that have an open PR
+  color: E99695
+
+- name: status: waiting review
+  description: To be applied to PRs that are ready for QA, especially when additional review is pending
+  color: D93F0B
+
+- name: status: waiting update
+  description: To be applied to issues or PR if a maintainer/reviewer is awaiting feedback from OP
+  color: FBCA04
+
+- name: status: wontfix
+  description: Permanently restricted feature/issue that can't be worked upon
+  color: 202020
+
+- name: type: feature request
+  description: Feature requests. Something that would be nice to have
+  color: 5319E7
+
+- name: type: bug
+  description: Issues that need priority attention
+  color: 5319E7
+
+- name: status: blocked
+  description: Waiting on follow up from either OP or maintainer
+  color: FBCA04
+
+- name: status: discussing
+  description: Under discussion threads. Closed as stale after 60 days of inactivity.
+  color: 1D76DB
+
+- name: status: merge conflict
+  description: Applied to PRs that have a merge conflict and need updating
+  color: A8720A
+
+- name: other: device specific
+  description: Browser, Device, OS specific issues
+  color: E99695
+
+- name: other: lacking substance
+  description: Discussions that are not concrete enough for actionable work. Should be closed.
+  color: E99695
+
+- name: other: network specific
+  description: Network specific issue
+  color: E99695
+
+- name: scope: devtools
+  description: Updates that support dev work, CI/CD, etc.
+  color: 1D76DB
+
+- name: scope: other
+  description: Threads that do not fall into a specific category
+  color: 1D76DB
+
+- name: DO NOT MERGE
+  description: Do not merge this PR
+  color: B60205
+
+- name: bookmark
+  description: Start next issue/PR/discussion here
+  color: 5319E7
+
+- name: type: showstopper
+  description: Issues that are of critical importance. These need immediate attention & shipping
+  color: B60205
+
+- name: type: audit
+  description: To be applied to threads that are discussing an active audit
+  color: F9D0C4
+
+- name: type: chore
+  description: General chores, refactors, and other todo items.
+  color: 5319E7
+
+- name: automated
+  description: Label only to be used by automated tools, CI, and workflows
+  color: FBCA04
+
+- name: announcement
+  description: Used to trigger automated announcement workflow
+  color: FBCA04
